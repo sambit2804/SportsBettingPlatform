@@ -47,4 +47,4 @@ The smart contract manages bet placements, match results, and reward claims with
 
 ## 🔗 Deployed Smart Contract Link
 https://stellar.expert/explorer/testnet/tx/7156197199187968#7156197199187969
-> ⚠️ Add your deployed contract link here:
+

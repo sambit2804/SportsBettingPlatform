@@ -1,6 +1,8 @@
 # 🏆 Sports Betting Platform (Soroban Smart Contract)
 
 ## 📌 Project Description
+<img width="1903" height="969" alt="image" src="https://github.com/user-attachments/assets/f1cce165-28f1-4602-8fb7-826a7a95b005" />
+
 This project is a decentralized sports betting platform built using Soroban on the Stellar blockchain. It allows users to place bets on sports matches in a transparent, secure, and trustless environment.
 
 The smart contract manages bet placements, match results, and reward claims without relying on a centralized authority.

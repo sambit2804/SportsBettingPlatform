@@ -1,4 +1,5 @@
 # 🏆 Sports Betting Platform (Soroban Smart Contract)
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/9825bdd2-0e6b-4b85-b9a4-875930cc4b4e" />
 
 ## 📌 Project Description
 <img width="1903" height="969" alt="image" src="https://github.com/user-attachments/assets/f1cce165-28f1-4602-8fb7-826a7a95b005" />
